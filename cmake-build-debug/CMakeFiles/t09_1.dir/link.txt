@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/t09_1.dir/main.c.o  -o t09_1 

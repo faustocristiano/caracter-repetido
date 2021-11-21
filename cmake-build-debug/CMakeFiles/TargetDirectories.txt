@@ -1,0 +1,3 @@
+/home/fausto/CLionProjects/PROG1/t09_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/fausto/CLionProjects/PROG1/t09_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/fausto/CLionProjects/PROG1/t09_1/cmake-build-debug/CMakeFiles/t09_1.dir
